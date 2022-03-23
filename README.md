@@ -1,4 +1,4 @@
-# AutonomousSailboatPlymouth
+# Autonomous Sailboat Plymouth
 The Ultrasonic files (Ultrasonic.cpp/Ultrasonic.h) is adapted from the code of https://github.com/Make-The-Light-Sing/HCSR04UltraSonic.
 
 This is an Arduino code and it requires the following externals libraries (which you will find inside of the lib folder):
