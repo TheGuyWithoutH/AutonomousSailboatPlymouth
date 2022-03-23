@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['rcmoduleloop',['RcModuleLoop',['../de/dcd/RcModule_8cpp.html#a13159f4bfec18a28a5c6eef7c678f03d',1,'RcModuleLoop(unsigned int *p_throttle, unsigned int *p_rudder, bool lastVal):&#160;RcModule.cpp'],['../d0/d98/RcModule_8h.html#a13159f4bfec18a28a5c6eef7c678f03d',1,'RcModuleLoop(unsigned int *p_throttle, unsigned int *p_rudder, bool lastVal):&#160;RcModule.cpp']]],
+  ['rcmodulesetup',['RcModuleSetup',['../de/dcd/RcModule_8cpp.html#ae3b6b310714ad0180ae26eb7ff99d351',1,'RcModuleSetup():&#160;RcModule.cpp'],['../d0/d98/RcModule_8h.html#ae3b6b310714ad0180ae26eb7ff99d351',1,'RcModuleSetup():&#160;RcModule.cpp']]],
+  ['read_5fcompass',['Read_Compass',['../d8/d30/IMU_8cpp.html#adae1ad644dad84b73c4607c2f48a862f',1,'Read_Compass(byte axis):&#160;IMU.cpp'],['../d7/d59/IMU_8h.html#adae1ad644dad84b73c4607c2f48a862f',1,'Read_Compass(byte axis):&#160;IMU.cpp']]],
+  ['resetarduino',['ResetArduino',['../dc/d48/Tools_8cpp.html#a43a489d51a522a8d50b1b53f23b395ed',1,'ResetArduino():&#160;Tools.cpp'],['../d2/d8f/Tools_8h.html#a43a489d51a522a8d50b1b53f23b395ed',1,'ResetArduino():&#160;Tools.cpp']]],
+  ['rudderapplycommand',['RudderApplyCommand',['../dd/d36/Rudder_8cpp.html#a626e00885bccf2e23f63d7c8fb9e8343',1,'RudderApplyCommand(double rudderCommand):&#160;Rudder.cpp'],['../df/d52/Rudder_8h.html#a626e00885bccf2e23f63d7c8fb9e8343',1,'RudderApplyCommand(double rudderCommand):&#160;Rudder.cpp']]],
+  ['ruddercomputecommand',['RudderComputeCommand',['../dd/d36/Rudder_8cpp.html#aacbb8f50e66c1dad512f28be5f35c07b',1,'RudderComputeCommand(int command, int commandMin, int commandMax):&#160;Rudder.cpp'],['../df/d52/Rudder_8h.html#aacbb8f50e66c1dad512f28be5f35c07b',1,'RudderComputeCommand(int command, int commandMin, int commandMax):&#160;Rudder.cpp']]],
+  ['ruddersetup',['RudderSetup',['../dd/d36/Rudder_8cpp.html#a6912c3101be2a67ecbe68ff4074f803e',1,'RudderSetup():&#160;Rudder.cpp'],['../df/d52/Rudder_8h.html#a6912c3101be2a67ecbe68ff4074f803e',1,'RudderSetup():&#160;Rudder.cpp']]]
+];
