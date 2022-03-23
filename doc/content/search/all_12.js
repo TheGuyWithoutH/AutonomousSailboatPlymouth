@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['warning',['Warning',['../d6/d7d/Messages_8cpp.html#ace99803d9ff5e1ce963586139c4d3fb0',1,'Warning(String function, String message):&#160;Messages.cpp'],['../d1/dd0/Messages_8h.html#ace99803d9ff5e1ce963586139c4d3fb0',1,'Warning(String function, String message):&#160;Messages.cpp']]],
+  ['winch',['Winch',['../d1/d71/Sail_8cpp.html#a7b16814f4c18dafc8fa1c47bc0170db7',1,'Winch(unsigned int angle):&#160;Sail.cpp'],['../d7/dc9/Sail_8h.html#a7b16814f4c18dafc8fa1c47bc0170db7',1,'Winch(unsigned int angle):&#160;Sail.cpp']]],
+  ['winch_5fangle_5fmax',['WINCH_ANGLE_MAX',['../d1/d71/Sail_8cpp.html#acac2b99d3f32d24c0716a2298768bab7',1,'Sail.cpp']]],
+  ['winch_5fangle_5fmin',['WINCH_ANGLE_MIN',['../d1/d71/Sail_8cpp.html#ab4f47f30c4c736d1bd833a96cd73bbe9',1,'Sail.cpp']]],
+  ['winch_5fdiameter',['WINCH_DIAMETER',['../d1/d71/Sail_8cpp.html#a82f5bf7f4c4fb0eeaedce70929cd41ec',1,'Sail.cpp']]],
+  ['winch_5fmax_5fconfig',['WINCH_MAX_CONFIG',['../d1/d71/Sail_8cpp.html#a4f85c00a40b549423ecdc0e71e602ca9',1,'Sail.cpp']]],
+  ['winch_5fmin_5fconfig',['WINCH_MIN_CONFIG',['../d1/d71/Sail_8cpp.html#afcc82a2bd06e303d1b9d17fcd381a335',1,'Sail.cpp']]],
+  ['winch_5foffset',['WINCH_OFFSET',['../d1/d71/Sail_8cpp.html#a849cfafcf04a10e009bfdfbc988d85b6',1,'Sail.cpp']]],
+  ['winch_5fpin',['WINCH_PIN',['../d4/d0c/Wiring_8h.html#a18b1dc3aa1989f9a80e9fd0a17eeee42',1,'Wiring.h']]],
+  ['winch_5fpwm_5fmax',['WINCH_PWM_MAX',['../d1/d71/Sail_8cpp.html#a0b1cb77227c423729ab040bcbe6e43c5',1,'Sail.cpp']]],
+  ['winch_5fpwm_5fmin',['WINCH_PWM_MIN',['../d1/d71/Sail_8cpp.html#a43c06c5cf5899f395e58805e91008b50',1,'Sail.cpp']]],
+  ['wind_5fsensor_5fmax',['WIND_SENSOR_MAX',['../dd/d41/WindSensor_8cpp.html#a4bfe09d1f867cdbc65cd9a337aad325d',1,'WindSensor.cpp']]],
+  ['wind_5fsensor_5fmin',['WIND_SENSOR_MIN',['../dd/d41/WindSensor_8cpp.html#a40f77a29867d7d1cf3e8944858a77b3e',1,'WindSensor.cpp']]],
+  ['wind_5fsensor_5foffset',['WIND_SENSOR_OFFSET',['../dd/d41/WindSensor_8cpp.html#a483edc79afbf1086a46bb67a688125d2',1,'WindSensor.cpp']]],
+  ['wind_5fsensor_5fpin',['WIND_SENSOR_PIN',['../d4/d0c/Wiring_8h.html#afc7b87db8953dff053fc10634a1a5487',1,'Wiring.h']]],
+  ['windangle',['WindAngle',['../dd/d41/WindSensor_8cpp.html#a9dccca626f1194b54cdc48aa5f35b288',1,'WindAngle():&#160;WindSensor.cpp'],['../d3/d17/WindSensor_8h.html#a9dccca626f1194b54cdc48aa5f35b288',1,'WindAngle():&#160;WindSensor.cpp']]],
+  ['windboat',['windBoat',['../dc/d64/AutonomousSailboat_8ino.html#adc13378f5601b1aea0f65d9c17b98bbf',1,'AutonomousSailboat.ino']]],
+  ['windorientation',['WindOrientation',['../dd/d41/WindSensor_8cpp.html#aa13030d9f940be7f084d89f14754f569',1,'WindOrientation():&#160;WindSensor.cpp'],['../d3/d17/WindSensor_8h.html#aa13030d9f940be7f084d89f14754f569',1,'WindOrientation():&#160;WindSensor.cpp']]],
+  ['windsensor_2ecpp',['WindSensor.cpp',['../dd/d41/WindSensor_8cpp.html',1,'']]],
+  ['windsensor_2eh',['WindSensor.h',['../d3/d17/WindSensor_8h.html',1,'']]],
+  ['windsensor_5factivated',['WINDSENSOR_ACTIVATED',['../dc/d64/AutonomousSailboat_8ino.html#a030b8fd3efa84ffc186b10d610cfd7f3',1,'AutonomousSailboat.ino']]],
+  ['wiring_2eh',['Wiring.h',['../d4/d0c/Wiring_8h.html',1,'']]]
+];

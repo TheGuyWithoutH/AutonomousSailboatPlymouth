@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['c0',['c0',['../d8/d30/IMU_8cpp.html#af55b6e0514fe8f0b942b951d82ba06e4',1,'IMU.cpp']]],
+  ['c1',['c1',['../d8/d30/IMU_8cpp.html#a3800b4c89b0f78f7e8c9b96534f98b52',1,'IMU.cpp']]],
+  ['c2',['c2',['../d8/d30/IMU_8cpp.html#abcf46f6ce4661ff8de72c4f95026a1c6',1,'IMU.cpp']]],
+  ['calcdistance',['CalcDistance',['../d9/db5/classUltrasonic.html#afd0c3dcb7a92b542cc3f9482f3f7c7b4',1,'Ultrasonic']]],
+  ['cc11',['CC11',['../d8/d30/IMU_8cpp.html#a3b812765504e3f10e59c89b1df509736',1,'IMU.cpp']]],
+  ['cc12',['CC12',['../d8/d30/IMU_8cpp.html#a0528024d7af7bb9407b7ba6b0c95fbc9',1,'IMU.cpp']]],
+  ['cc13',['CC13',['../d8/d30/IMU_8cpp.html#acf022005f00cc782be409dd93772d208',1,'IMU.cpp']]],
+  ['cc21',['CC21',['../d8/d30/IMU_8cpp.html#a0d1fa5e44a87d7ca9d75842bbf9552d7',1,'IMU.cpp']]],
+  ['cc22',['CC22',['../d8/d30/IMU_8cpp.html#ae47d1c52ffb310f79e3e9ef601aedf52',1,'IMU.cpp']]],
+  ['cc23',['CC23',['../d8/d30/IMU_8cpp.html#a0170ce419898f60b619052c6106614ab',1,'IMU.cpp']]],
+  ['cc31',['CC31',['../d8/d30/IMU_8cpp.html#a38c1578720e8cb86b864d06e3e9685cb',1,'IMU.cpp']]],
+  ['cc32',['CC32',['../d8/d30/IMU_8cpp.html#a4e54f197b8636d8c5b376314fdbceb86',1,'IMU.cpp']]],
+  ['cc33',['CC33',['../d8/d30/IMU_8cpp.html#a282cc3565d8be697b392fb6bc636059e',1,'IMU.cpp']]],
+  ['comp_5fstatus',['COMP_STATUS',['../d7/d59/IMU_8h.html#aa99ea6e1ef8ef221c5b5e768a82543cf',1,'IMU.h']]],
+  ['comp_5fxout_5fl',['COMP_XOUT_L',['../d7/d59/IMU_8h.html#af96282336e5304a3b1caac8ccdca6f76',1,'IMU.h']]],
+  ['comp_5fyout_5fl',['COMP_YOUT_L',['../d7/d59/IMU_8h.html#a0fd7eaed02c5086c345e87c69fa8d03e',1,'IMU.h']]],
+  ['comp_5fzout_5fl',['COMP_ZOUT_L',['../d7/d59/IMU_8h.html#ab47a08a4b9f7d8e0860e85bbe8f05090',1,'IMU.h']]],
+  ['controller',['Controller',['../dd/da6/Controller_8cpp.html#a656be7c4a59856af4ead87475677608d',1,'Controller(double posActual[2], double heading, double windAngle, double posA[2], double posB[2], double *rudder, double *sail):&#160;Controller.cpp'],['../de/d4a/Controller_8h.html#a656be7c4a59856af4ead87475677608d',1,'Controller(double posActual[2], double heading, double windAngle, double posA[2], double posB[2], double *rudder, double *sail):&#160;Controller.cpp']]],
+  ['controller_2ecpp',['Controller.cpp',['../dd/da6/Controller_8cpp.html',1,'']]],
+  ['controller_2eh',['Controller.h',['../de/d4a/Controller_8h.html',1,'']]],
+  ['controllersetup',['ControllerSetup',['../dd/da6/Controller_8cpp.html#ac3a0fffcd22f7bf2c11b237c59a23e84',1,'ControllerSetup(double initialPath[NB_POS_GPS][2], double newPath[NB_POS_GPS+1][2]):&#160;Controller.cpp'],['../de/d4a/Controller_8h.html#ac3a0fffcd22f7bf2c11b237c59a23e84',1,'ControllerSetup(double initialPath[NB_POS_GPS][2], double newPath[NB_POS_GPS+1][2]):&#160;Controller.cpp']]],
+  ['corridor',['CORRIDOR',['../dd/da6/Controller_8cpp.html#a6dfdcda49757b678cfce0edfeb174d61',1,'Controller.cpp']]],
+  ['countrestart',['countRestart',['../de/dcd/RcModule_8cpp.html#a18fe755b0ec4e887b6c68a00261fad11',1,'RcModule.cpp']]]
+];
